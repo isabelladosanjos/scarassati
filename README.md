@@ -54,7 +54,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="25" alt="mysql logo" />
 </div>
 
-## 🩷 GitHub Stats
+## 📊 GitHub Stats
 
 <div align="center">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=scarassati&show_icons=true&theme=radical"/>
