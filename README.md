@@ -37,8 +37,7 @@
 ## 💌 Sobre mim
 
 - 👩‍💻 Técnica em Desenvolvimento de Sistemas  
-- 🌸 Estudando: Java | Spring | React  
-- 🧁 Viciada em café, animes e interfaces bonitinhas  
+- 🌸 Estudando: Python | C# | React  
 - 🚀 Buscando meu primeiro estágio em tecnologia  
 - 🌱 Sempre aprendendo e evoluindo
 
@@ -47,8 +46,7 @@
 ## 🎀 Badges
 
 ![Status](https://img.shields.io/badge/Dev%20em%20crescimento-%F0%9F%8C%B8-F4A9D6?style=flat)
-![Estudando](https://img.shields.io/badge/Aprendendo-Java%20%7C%20Spring%20%7C%20React-F4A9D6?style=flat)
-![Fofa](https://img.shields.io/badge/Vibe-fofinha-FFB6C1?style=flat)
+![Estudando](https://img.shields.io/badge/Aprendendo-Python%20%7C%20C#%20%7C%20React-F4A9D6?style=flat)
 
 ---
 
@@ -65,15 +63,7 @@
   <img width="8" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="25" alt="java logo" />
   <img width="8" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="25" alt="spring logo" />
-  <img width="8" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="25" alt="c logo" />
-  <img width="8" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="25" alt="mysql logo" />
-  <img width="8" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="25" alt="postgresql logo" />
-  <img width="8" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="25" alt="docker logo" />
 </div>
 
 ---
