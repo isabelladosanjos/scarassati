@@ -68,7 +68,7 @@
 
 ---
 
-## 🪞 GitHub Stats
+## 📊 GitHub Stats
 
 <div align="center">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=isabelladosanjos&show_icons=true&theme=radical"/>
@@ -77,10 +77,4 @@
 
 ---
 
-## 🐍 Snake Animation
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/scarassati/scarassati/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/scarassati/scarassati/output/github-contribution-grid-snake.svg" />
-  <img src="https://raw.githubusercontent.com/Scarassati/scarassati/output/github-contribution-grid-snake.svg" alt="Snake animation" />
-</picture>
