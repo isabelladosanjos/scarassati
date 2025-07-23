@@ -1,6 +1,6 @@
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=FF00F6&center=true&vCenter=true&random=false&width=524&lines=%E2%8A%B9+Welcome+to+my+profile!+%CB%99%E1%B5%95%CB%99+%E2%8A%B9+" alt="Typing SVG">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=F4A9D6&center=true&vCenter=true&random=false&width=524&lines=%E2%8A%B9+Welcome+to+my+profile!+%CB%99%E1%B5%95%CB%99+%E2%8A%B9+" alt="Typing SVG">
   </a>
 </div>
 
@@ -8,44 +8,45 @@
   <img src="./src/header-gif.gif" alt="Header GIF" />
 </div>
 
-#
+---
 
 <p align="center"><strong>💻 Estudante de Análise e Desenvolvimento de Sistemas</strong></p>
 
-#
+---
 
 <img align="right" alt="study" height="190px" src="./src/study.gif">
 
-## 🌸 Connect with me!
+<h3 align="center">🌸 Connect with me!</h3>
 
-<div align="left">
+<div align="center">
 
-[![Email](https://img.shields.io/badge/-Email-FF00F6?style=for-the-badge&logo=gmail&logoColor=white)](mailto:isabellascarassatii@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-FF00F6?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/isabella-dos-anjos/)
-[![Instagram](https://img.shields.io/badge/-Instagram-FF00F6?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/isabellascarassati/)
+[![Email](https://img.shields.io/badge/-Email-F4A9D6?style=for-the-badge&logo=gmail&logoColor=white)](mailto:isabellascarassatii@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-F4A9D6?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/isabella-dos-anjos/)
+[![Instagram](https://img.shields.io/badge/-Instagram-F4A9D6?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/isabellascarassati/)
 
 </div>
 
 ---
 
-## 💡 Sobre mim:
+## 💖 Sobre mim:
 
-- 💻 Técnica em Desenvolvimento de Sistemas
-- 🧠 
-- ✨
-- 🎯 
-- 🌱 
-
----
-
-## ✨ Badges fofas:
-
-![Status](https://img.shields.io/badge/Dev%20em%20crescimento-%F0%9F%8C%B8-purple?style=flat)
-![Estudando](https://img.shields.io/badge/Aprendendo-Java%20%7C%20Spring%20%7C%20React-blueviolet?style=flat)
+- 💻 Técnica em Desenvolvimento de Sistemas  
+- ✨ Estudando: Java | Spring | React  
+- ☕ Viciada em café, animes e interfaces bonitinhas  
+- 🚀 Buscando meu primeiro estágio em tecnologia  
+- 🌱 Sempre aprendendo e evoluindo
 
 ---
 
-## 💻 My Stack:
+## 🌈 Badges:
+
+![Status](https://img.shields.io/badge/Dev%20em%20crescimento-%F0%9F%8C%B8-F4A9D6?style=flat)
+![Estudando](https://img.shields.io/badge/Aprendendo-Java%20%7C%20Spring%20%7C%20React-F4A9D6?style=flat)
+![Fofa](https://img.shields.io/badge/Vibe-fofinha-FFB6C1?style=flat)
+
+---
+
+## 🛠️ My Stack:
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="25" alt="html5 logo" />
@@ -80,7 +81,7 @@
 
 ---
 
-## 🐍 Commit Snake
+## 🐍 Snake Animation
 
 <picture align="center">
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/isabelladosanjos/isabelladosanjos/output/github-contribution-grid-snake-dark.svg">
@@ -90,3 +91,6 @@
 
 ---
 
+## ✨ Fun fact:
+
+> “A cada linha de código, uma estrela no céu 🌟”
