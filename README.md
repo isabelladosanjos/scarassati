@@ -31,10 +31,10 @@
 ## 💡 Sobre mim:
 
 - 💻 Técnica em Desenvolvimento de Sistemas
-- 🧠 Estudando: Java | Spring | React
-- ✨ Amo programação, design, animes e café
-- 🎯 Buscando meu primeiro estágio na área de tecnologia!
-- 🌱 Sempre aprendendo e evoluindo
+- 🧠 
+- ✨
+- 🎯 
+- 🌱 
 
 ---
 
@@ -42,7 +42,6 @@
 
 ![Status](https://img.shields.io/badge/Dev%20em%20crescimento-%F0%9F%8C%B8-purple?style=flat)
 ![Estudando](https://img.shields.io/badge/Aprendendo-Java%20%7C%20Spring%20%7C%20React-blueviolet?style=flat)
-![Fofa](https://img.shields.io/badge/Vibe-fofinha-FFB6C1?style=flat)
 
 ---
 
@@ -91,6 +90,3 @@
 
 ---
 
-## ✨ Fun fact:
-
-> “A cada linha de código, uma estrela no céu 🌟”
