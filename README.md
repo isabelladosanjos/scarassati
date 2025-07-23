@@ -16,29 +16,35 @@
 
 <img align="right" alt="study" height="190px" src="./src/study.gif">
 
-<h3 align="center">🌸 Connect with me!</h3>
+<h3 align="center">🌷 Connect with me</h3>
 
 <div align="center">
 
-[![Email](https://img.shields.io/badge/-Email-F4A9D6?style=for-the-badge&logo=gmail&logoColor=white)](mailto:isabellascarassatii@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-F4A9D6?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/isabella-dos-anjos/)
-[![Instagram](https://img.shields.io/badge/-Instagram-F4A9D6?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/isabellascarassati/)
+<a href="mailto:isabellascarassatii@gmail.com">
+  <img src="https://img.shields.io/badge/-Email-F4A9D6?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+</a>
+<a href="https://www.linkedin.com/in/isabella-dos-anjos/">
+  <img src="https://img.shields.io/badge/-LinkedIn-F4A9D6?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+</a>
+<a href="https://www.instagram.com/isabellascarassati/">
+  <img src="https://img.shields.io/badge/-Instagram-F4A9D6?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
+</a>
 
 </div>
 
 ---
 
-## 💖 Sobre mim:
+## 💌 Sobre mim
 
-- 💻 Técnica em Desenvolvimento de Sistemas  
-- ✨ Estudando: Java | Spring | React  
-- ☕ Viciada em café, animes e interfaces bonitinhas  
+- 👩‍💻 Técnica em Desenvolvimento de Sistemas  
+- 🌸 Estudando: Java | Spring | React  
+- 🧁 Viciada em café, animes e interfaces bonitinhas  
 - 🚀 Buscando meu primeiro estágio em tecnologia  
 - 🌱 Sempre aprendendo e evoluindo
 
 ---
 
-## 🌈 Badges:
+## 🎀 Badges
 
 ![Status](https://img.shields.io/badge/Dev%20em%20crescimento-%F0%9F%8C%B8-F4A9D6?style=flat)
 ![Estudando](https://img.shields.io/badge/Aprendendo-Java%20%7C%20Spring%20%7C%20React-F4A9D6?style=flat)
@@ -46,7 +52,7 @@
 
 ---
 
-## 🛠️ My Stack:
+## 🧸 My Stack
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="25" alt="html5 logo" />
@@ -72,7 +78,7 @@
 
 ---
 
-## 📊 GitHub Stats:
+## 🪞 GitHub Stats
 
 <div align="center">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=isabelladosanjos&show_icons=true&theme=radical"/>
@@ -83,14 +89,8 @@
 
 ## 🐍 Snake Animation
 
-<picture align="center">
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/isabelladosanjos/isabelladosanjos/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/isabelladosanjos/isabelladosanjos/output/github-contribution-grid-snake.svg">
-  <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/isabelladosanjos/isabelladosanjos/output/github-contribution-grid-snake.svg">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/isabelladosanjos/isabelladosanjos/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/isabelladosanjos/isabelladosanjos/output/github-contribution-grid-snake.svg" />
+  <img src="https://raw.githubusercontent.com/isabelladosanjos/isabelladosanjos/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 </picture>
-
----
-
-## ✨ Fun fact:
-
-> “A cada linha de código, uma estrela no céu 🌟”
