@@ -28,8 +28,8 @@
 
 ## 💌 Sobre mim
 
-- 👩‍💻 Técnica em Desenvolvimento de Sistemas  
-- 🌸 Estudando: Python | C# | React  
+- 👩‍💻 Técnica em Desenvolvimento de Sistemas | Graduanda em Análise e Desenvolvimento de Sistemas na Uniso 
+- 🌸 Estudando: Front-End
 - 🚀 Buscando meu primeiro estágio em tecnologia  
 - 🌱 Sempre aprendendo e evoluindo  
 
@@ -48,8 +48,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" height="25" alt="javascript logo" />
   <img width="8" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="25" alt="react logo" />
-  <img width="8" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="25" alt="java logo" />
   <img width="8" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="25" alt="mysql logo" />
 </div>
