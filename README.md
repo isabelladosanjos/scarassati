@@ -28,7 +28,7 @@
 
 ## 💌 Sobre mim
 
-- 👩‍💻 Técnica em Desenvolvimento de Sistemas | Graduanda em Análise e Desenvolvimento de Sistemas na Uniso 
+- 👩‍💻 Técnica em Desenvolvimento de Sistemas
 - 🌸 Estudando: Front-End
 - 🚀 Buscando meu primeiro estágio em tecnologia  
 - 🌱 Sempre aprendendo e evoluindo  
