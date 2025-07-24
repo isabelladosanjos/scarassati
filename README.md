@@ -57,15 +57,14 @@
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img height="130em" src="https://github-readme-stats.vercel.app/api?username=scarassati&show_icons=true&theme=radical" style="border-radius: 15px;" />
-  <img height="130em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=scarassati&layout=compact&langs_count=7&theme=radical" style="border-radius: 15px;" />
+  <img height="130em" src="https://github-readme-stats.vercel.app/api?username=isabelladosanjos&show_icons=true&theme=radical&border_radius=15" />
+  <img height="130em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=isabelladosanjos&layout=compact&langs_count=7&theme=radical&border_radius=15" />
 </div>
 
-
+## 🐍 Contributions Snake
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/isabelladosanjos/isabelladosanjos/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/isabelladosanjos/isabelladosanjos/output/github-contribution-grid-snake.svg">
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/isabelladosanjos/isabelladosanjos/output/github-contribution-grid-snake.svg">
 </picture>
-
