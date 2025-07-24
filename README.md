@@ -57,7 +57,7 @@
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img height="110em" src="https://github-readme-stats.vercel.app/api?username=scarassati&show_icons=true&theme=radical"/>
+  <img height="95em" src="https://github-readme-stats.vercel.app/api?username=scarassati&show_icons=true&theme=radical"/>
   <img height="110em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=scarassati&layout=compact&langs_count=7&theme=radical"/>
 </div>
 
