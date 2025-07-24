@@ -58,7 +58,7 @@
 
 <div align="center">
   <img height="130em" src="https://github-readme-stats.vercel.app/api?username=isabelladosanjos&show_icons=true&theme=radical&border_radius=15" />
-  <img height="130em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=scarassati&layout=compact&langs_count=7&theme=radical&border_radius=15" />
+  <img height="130em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=scarassati&layout=compact&langs_count=7&theme=radical&border_radius=8" />
 </div>
 
 ## 🐍 Contributions Snake
