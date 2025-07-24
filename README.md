@@ -29,7 +29,7 @@
 ## 💌 Sobre mim
 
 - 👩‍💻 Técnica em Desenvolvimento de Sistemas
-- 🌸 Estudando: Front-End
+- 🌸 Estudando com foco em Python
 - 🚀 Buscando meu primeiro estágio em tecnologia  
 - 🌱 Sempre aprendendo e evoluindo  
 
